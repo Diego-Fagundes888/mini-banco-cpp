@@ -88,17 +88,23 @@ mini-banco/
 
 Adicione aqui imagens ou GIFs mostrando o projeto em funcionamento:
 
-- Print do menu inicial: `[preencher]`
-- Print da criacao de conta: `[preencher]`
-- Print do login: `[preencher]`
-- Print de deposito, saque ou transferencia: `[preencher]`
-- Link de video demonstrando o uso no terminal: `[preencher]`
+- Print do menu inicial:
 
-Exemplo:
+![Menu inicial do sistema](docs/imagens/menu-inicial.png)
 
-```md
-![Menu inicial](docs/images/menu-inicial.png)
-```
+- Print da criacao de conta:
+
+![Criacao de conta](docs/imagens/criacao-conta.png)
+
+- Print do login:
+
+![Tela de login](docs/imagens/login.png)
+
+- Print de deposito, saque ou transferencia:
+
+![Operacao bancaria](docs/imagens/operacao.png)
+
+
 
 ## Aprendizados
 
