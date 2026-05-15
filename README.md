@@ -134,5 +134,5 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 Desenvolvido por Diego Alves.
 
-- GitHub: `[preencher]`
-- LinkedIn: `[preencher]`
+- GitHub: [Diego-Fagundes888](https://github.com/Diego-Fagundes888)
+-- LinkedIn: [Diego Alves](https://www.linkedin.com/in/diegofagundes-back/)
