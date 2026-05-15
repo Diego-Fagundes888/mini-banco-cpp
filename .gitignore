@@ -1,0 +1,30 @@
+# Build / compilacao
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+build/
+bin/
+obj/
+out/
+src/output/
+
+# Arquivos temporarios
+*.tmp
+*.log
+src/tempCodeRunnerFile.cpp
+
+# Dados locais gerados pela aplicacao
+data/*.txt
+!data/.gitkeep
+
+# Configuracoes locais de IDE/editor
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
