@@ -73,6 +73,10 @@ mini-banco/
 |-- data/
 |   `-- .gitkeep
 |-- docs/
+|   |-- imagens/
+|   |   |-- criacao-conta.png
+|   |   |-- login.png
+|   |   `-- menu-inicial.png
 |   |-- planejamento.md
 |   `-- regras.md
 |-- include/
@@ -86,25 +90,17 @@ mini-banco/
 
 ## Prints ou demonstracao
 
-Adicione aqui imagens ou GIFs mostrando o projeto em funcionamento:
-
-- Print do menu inicial:
+### Menu inicial
 
 ![Menu inicial do sistema](docs/imagens/menu-inicial.png)
 
-- Print da criacao de conta:
+### Criacao de conta
 
 ![Criacao de conta](docs/imagens/criacao-conta.png)
 
-- Print do login:
+### Login
 
 ![Tela de login](docs/imagens/login.png)
-
-- Print de deposito, saque ou transferencia:
-
-![Operacao bancaria](docs/imagens/operacao.png)
-
-
 
 ## Aprendizados
 
@@ -135,4 +131,4 @@ Durante o desenvolvimento deste projeto, foram praticados:
 Desenvolvido por Diego Alves.
 
 - GitHub: [Diego-Fagundes888](https://github.com/Diego-Fagundes888)
--- LinkedIn: [Diego Alves](https://www.linkedin.com/in/diegofagundes-back/)
+- LinkedIn: [Diego Alves](https://www.linkedin.com/in/diegofagundes-back/)
